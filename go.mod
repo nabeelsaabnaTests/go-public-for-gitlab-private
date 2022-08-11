@@ -4,5 +4,5 @@ go 1.17
 
 require (
   gitlab.com/nabeelsaabna/go-private-nabeel v1.6.0
-  github.com/google/go-cmp v0.5.4
+  github.com/google/go-cmp v0.5.8
 )
